@@ -10,142 +10,141 @@
 		<link rel="preconnect" href="https://fonts.gstatic.com">
 		<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap" rel="stylesheet"> 
 		<link rel="stylesheet" href="stylesheet.css">
-
     </head>
     <body>
 		<p class="wzorzec">Strona zaprojektowana według wzorca F</p>
         <header class="nav">
-            <a class="nav__logo" href="strona_glowna.html"><img src="https://drive.google.com/uc?export=view&id=1Z8euCga8ijda60Jvf1sYg4Du-qyj6d00"></a>
+		<a class="nav__logo" href="strona_glowna.html"><img src="https://drive.google.com/uc?export=view&id=1Z8euCga8ijda60Jvf1sYg4Du-qyj6d00"></a>
             <nav>
                 <ul class="nav__menu">
-				<li><a class="nav__link" href="#">BAZA WIEDZY</a></li>
-				<li><a class="nav__link" href="#">O NAS</a></li>
-				<li><a class="nav__link" href="#">KONTAKT</a></li>
+			<li><a class="nav__link" href="#">BAZA WIEDZY</a></li>
+			<li><a class="nav__link" href="#">O NAS</a></li>
+			<li><a class="nav__link" href="#">KONTAKT</a></li>
             </nav>
         </header>
         <main class="content">
-			<div class="navi__post">
-				<p><a href="strona_glowna.html">Strona główna</a> > <a href="#">Baza wiedzy</a> > Najlepsza karma dla chomika</p>
+		<div class="navi__post">
+			<p><a href="strona_glowna.html">Strona główna</a> > <a href="#">Baza wiedzy</a> > Najlepsza karma dla chomika</p>
+		</div>
+		<article id="1" class="blog__post">
+			<h1>Najlepsza karma dla chomika</h1>	
+			<div class="blog__post__image"><img src="https://drive.google.com/uc?export=view&id=1VtMYPjyiqBsjzfLWnRQZpXBMaWyvAm8q"alt="Najlepsza karma dla chomika" title="Najlepsza karma dla chomika">
+			<div class="inpost__text">
+			<p><strong>Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi welsh onion daikon amaranth tatsoi tomatillo melon azuki bean garlic. Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.</strong>
+			<br/>
+			<h2>Turnip greens yarrow ricebean</h2>
+			Rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. 
+			<br/>
+			Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke.
+			<br/>Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts black-eyed pea prairie turnip leek lentil turnip greens parsnip. Sea lettuce lettuce water chestnut eggplant winter purslane fennel azuki bean earthnut pea sierra leone bologi leek soko chicory celtuce parsley salsify.
+			<h2>Celery quandong swiss</h2>
+			Chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard.
+			<ul>
+				<li>pea horseradish</li>
+				<li>azuki bean</li>
+				<li>lettuce </li>
+				<li>avocado</li>
+				<li>asparagus</li>
+			</ul>
+			Kohlrabi radish okra azuki bean corn fava bean mustard tigernut green bean celtuce collard greens avocado quandong fennel gumbo black-eyed pea. Grape silver beet watercress potato. 
+			<br/>
+			<br/>
+			<div class="box__post__image">
+				<div class="inpost__image">
+					<img src="https://drive.google.com/uc?export=view&id=1qKyF4pHzWZsDp3QRKXb-1zclydJ1aInG" alt="Zdrowa karma Mixerama">
+					<p>Zdrowa karma Mixerama</p>
+				</div>
+				<div class="inpost__image">
+					<img src="https://drive.google.com/uc?export=view&id=1aZUvcqmcRAJpkQ2bBKFmlq5_Nrrgm4ah" alt="Zdrowa karma Futter">
+					<p>Zdrowa karma Futter</p>
+				</div>
 			</div>
-            <article id="1" class="blog__post">
-				<h1>Najlepsza karma dla chomika</h1>	
-				<div class="blog__post__image"><img src="https://drive.google.com/uc?export=view&id=1VtMYPjyiqBsjzfLWnRQZpXBMaWyvAm8q"alt="Najlepsza karma dla chomika" title="Najlepsza karma dla chomika">
-				<div class="inpost__text">
-				<p><strong>Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi welsh onion daikon amaranth tatsoi tomatillo melon azuki bean garlic. Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.</strong>
-				<br/>
-				<h2>Turnip greens yarrow ricebean</h2>
-				Rutabaga endive cauliflower sea lettuce kohlrabi amaranth water spinach avocado daikon napa cabbage asparagus winter purslane kale. Celery potato scallion desert raisin horseradish spinach carrot soko. 
-				<br/>
-				Lotus root water spinach fennel kombu maize bamboo shoot green bean swiss chard seakale pumpkin onion chickpea gram corn pea. Brussels sprout coriander water chestnut gourd swiss chard wakame kohlrabi beetroot carrot watercress. Corn amaranth salsify bunya nuts nori azuki bean chickweed potato bell pepper artichoke.
-				<br/>Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts black-eyed pea prairie turnip leek lentil turnip greens parsnip. Sea lettuce lettuce water chestnut eggplant winter purslane fennel azuki bean earthnut pea sierra leone bologi leek soko chicory celtuce parsley salsify.
-				<h2>Celery quandong swiss</h2>
-				Chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard.
-				<ul>
-					<li>pea horseradish</li>
-					<li>azuki bean</li>
-					<li>lettuce </li>
-					<li>avocado</li>
-					<li>asparagus</li>
-				</ul>
-				Kohlrabi radish okra azuki bean corn fava bean mustard tigernut green bean celtuce collard greens avocado quandong fennel gumbo black-eyed pea. Grape silver beet watercress potato. 
-				<br/>
-				<br/>
-				<div class="box__post__image">
-					<div class="inpost__image">
-						<img src="https://drive.google.com/uc?export=view&id=1qKyF4pHzWZsDp3QRKXb-1zclydJ1aInG" alt="Zdrowa karma Mixerama">
-						<p>Zdrowa karma Mixerama</p>
-					</div>
-					<div class="inpost__image">
-						<img src="https://drive.google.com/uc?export=view&id=1aZUvcqmcRAJpkQ2bBKFmlq5_Nrrgm4ah" alt="Zdrowa karma Futter">
-						<p>Zdrowa karma Futter</p>
-					</div>
-				</div>
-				<h3>Tigernut corn groundnut</h3>
-				Chickweed okra pea winter purslane coriander yarrow sweet pepper radish garlic brussels sprout groundnut summer purslane earthnut pea tomato spring onion azuki bean gourd. Gumbo kakadu plum komatsuna black-eyed pea green bean zucchini gourd winter purslane silver beet rock melon radish asparagus spinach.
-				<br/>
-				<br/>
-				<table>
-					<thead>
-						<tr>
-							<th></th>
-							<th>Fruits</th>
-							<th>Vegetables</th>
-							<th>Seeds</th>
+			<h3>Tigernut corn groundnut</h3>
+			Chickweed okra pea winter purslane coriander yarrow sweet pepper radish garlic brussels sprout groundnut summer purslane earthnut pea tomato spring onion azuki bean gourd. Gumbo kakadu plum komatsuna black-eyed pea green bean zucchini gourd winter purslane silver beet rock melon radish asparagus spinach.
+			<br/>
+			<br/>
+			<table>
+				<thead>
+					<tr>
+						<th></th>
+						<th>Fruits</th>
+						<th>Vegetables</th>
+						<th>Seeds</th>
 						</tr>
-					</thead>
-						<tr> 
-							<th>Weight</td>
-							<td>50g</td>
-							<td>50g</td>
-							<td>50g</td>
-						</tr>
-					</thead>
-						<tr>	
-							<th>Frequency</td>
-							<td>3 portion for a week</td>
-							<td>1 portion for a day</td>
-							<td>1 portion for a day</td>
-						</tr>
-					</thead>
-				</table>
-				<br/>
-				Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale radicchio turnip chicory salsify pea sprouts fava bean. 
-				<br/>
-				<h3>Soko radicchio bunya nuts gram </h3>
-				Dandelion zucchini burdock yarrow chickpea dandelion sorrel courgette turnip greens tigernut soybean radish artichoke wattle seed endive groundnut broccoli arugula.
-				<br/>
-				Dulse silver beet parsnip napa cabbage lotus root sea lettuce brussels sprout cabbage. Catsear cauliflower garbanzo yarrow salsify chicory garlic bell pepper napa cabbage lettuce tomato kale arugula melon sierra leone bologi rutabaga tigernut. 
-				<br/>
-				<h2>Summary</h2>
-				Sea lettuce gumbo grape kale kombu cauliflower salsify kohlrabi okra sea lettuce broccoli celery lotus root carrot winter purslane turnip greens garlic. Garlic courgette coriander radicchio plantain scallion cauliflower fava bean desert raisin spring onion chicory bunya nuts. Sea lettuce water spinach gram fava bean leek dandelion silver beet eggplant bush tomato.
-				</p>
-				</div>
-				<div class="post__pagination">
-					<div class="prev__post">
-						<div class="prev__post__inner">
-							<div class="prev__post__title">
-								<span>Poprzedni wpis</span>
-							</div>
-							<h4 class="h4__content__link"> 
-							<a href="#">Dlaczego myszoskoczek mieszka w akwarium?</a>
-							</h4>
+				</thead>
+					<tr> 
+						<th>Weight</td>
+						<td>50g</td>
+						<td>50g</td>
+						<td>50g</td>
+					</tr>
+				</thead>
+					<tr>	
+						<th>Frequency</td>
+						<td>3 portion for a week</td>
+						<td>1 portion for a day</td>
+						<td>1 portion for a day</td>
+					</tr>
+				</thead>
+			</table>
+			<br/>
+			Beetroot water spinach okra water chestnut ricebean pea catsear courgette summer purslane. Water spinach arugula pea tatsoi aubergine spring onion bush tomato kale radicchio turnip chicory salsify pea sprouts fava bean. 
+			<br/>
+			<h3>Soko radicchio bunya nuts gram </h3>
+			Dandelion zucchini burdock yarrow chickpea dandelion sorrel courgette turnip greens tigernut soybean radish artichoke wattle seed endive groundnut broccoli arugula.
+			<br/>
+			Dulse silver beet parsnip napa cabbage lotus root sea lettuce brussels sprout cabbage. Catsear cauliflower garbanzo yarrow salsify chicory garlic bell pepper napa cabbage lettuce tomato kale arugula melon sierra leone bologi rutabaga tigernut. 
+			<br/>
+			<h2>Summary</h2>
+			Sea lettuce gumbo grape kale kombu cauliflower salsify kohlrabi okra sea lettuce broccoli celery lotus root carrot winter purslane turnip greens garlic. Garlic courgette coriander radicchio plantain scallion cauliflower fava bean desert raisin spring onion chicory bunya nuts. Sea lettuce water spinach gram fava bean leek dandelion silver beet eggplant bush tomato.
+			</p>
+			</div>
+			<div class="post__pagination">
+				<div class="prev__post">
+					<div class="prev__post__inner">
+						<div class="prev__post__title">
+							<span>Poprzedni wpis</span>
 						</div>
-					</div>
-					<div class="next__post">
-						<div class="next__post__inner">
-							<div class="next__post__title">
-								<span>Następny wpis</span>
-							</div>
-							<h4 class="h4__content__link">
-							<a href="#">5 najlepszych kołowrotków dla chomika</a>
-							</h4>
-						</div>
+						<h4 class="h4__content__link"> 
+						<a href="#">Dlaczego myszoskoczek mieszka w akwarium?</a>
+						</h4>
 					</div>
 				</div>
-            </article>
+				<div class="next__post">
+					<div class="next__post__inner">
+						<div class="next__post__title">
+							<span>Następny wpis</span>
+						</div>
+						<h4 class="h4__content__link">
+						<a href="#">5 najlepszych kołowrotków dla chomika</a>
+						</h4>
+					</div>
+				</div>
+			</div>
+		</article>
         </main>
         <footer>
-			<div class="forms">
-				<div class="form__title">
-					<h2 class="h2__form__title">Chcę wiedzieć więcej, jak opiekować się moim gryzoniem.</h2>
-				</div>
+		<div class="forms">
+			<div class="form__title">
+				<h2 class="h2__form__title">Chcę wiedzieć więcej, jak opiekować się moim gryzoniem.</h2>
+			</div>
 				<form method="post" action="/send_form.php" id="contact_form">
 					<div class="form__element">
 						<label for="name">Imię</label>
 						<input type="text" name="name" id="name" class="formField">
 					</div>
-					<div class="form__element">
+						<div class="form__element">
 						<label for="email">Adres email</label>
 						<input type="text" name="email" id="email" class="formField">
 					</div>
-					<div class="form__element form__element--button">
+						<div class="form__element form__element--button">
 						<button type="submit" class="button" id="sendBtn">Wyślij</button>
 					</div>
 				</form>
 			</div>
-            <div class="footer__copyright">
-				<p>2020 - All Rights Reserved. Designed with ♥️ by Dominika Pyssa</p> 
-			</div>
+            	<div class="footer__copyright">
+			<p>2020 - All Rights Reserved. Designed with ♥️ by Dominika Pyssa</p> 
+		</div>
         </footer>
     </body>
 </html>
